@@ -10,7 +10,7 @@
 
 <ul>
   <li>Currently learning SQL, Java and Python</li>
-  <li>我喜欢中国 (I love China)</li>
+  <li>我喜欢中国 (I love chinese)</li>
   <li>Future Systems Engineer in training</li>
 </ul>
 
