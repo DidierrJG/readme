@@ -12,7 +12,7 @@
 
 <ul>
   <li>
-    Currently learning SQL, Java and Python
+    I enjoy discovering new technologies
   </li>
   <li>
     我喜欢中国 (I love chinese)
