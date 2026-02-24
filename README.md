@@ -22,7 +22,7 @@
   </li>
   <li>
     Visit my
-    <a href="didierr.netlify.app" target="_blank" rel="noopener noreferrer">
+    <a href="https://didierr.netlify.app" target="_blank" rel="noopener noreferrer">
       website ➜
     </a>
   </li>
