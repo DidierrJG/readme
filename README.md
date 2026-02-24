@@ -20,6 +20,12 @@
   <li>
     Future Systems Engineer in training
   </li>
+  <li>
+    Visit my
+    <a href="didierr.netlify.app" target="_blank" rel="noopener noreferrer">
+      website ➜
+    </a>
+  </li>
 </ul>
 
 <h2>
@@ -35,14 +41,7 @@
   Languages
 </h2>
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,java,python,javascript"/>
-</p>
-
-<h2>
-  Technologies
-</h2>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=django,opencv"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,java,python"/>
 </p>
 
 > <i>Lifelong learners. The journey is more rewarding than the destination.</i>
